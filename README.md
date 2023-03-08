@@ -1,2 +1,2 @@
 # odin-lp
-testando
+The Odin Project landing page lesson.
